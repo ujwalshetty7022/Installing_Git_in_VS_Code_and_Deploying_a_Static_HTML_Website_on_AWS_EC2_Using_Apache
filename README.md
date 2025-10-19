@@ -1,5 +1,8 @@
 <img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 11 06 PM" src="https://github.com/user-attachments/assets/636c59e5-be1c-4ef2-8e0e-14200554950b" />
 <img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 11 11 PM" src="https://github.com/user-attachments/assets/8a6cb482-632d-4834-a306-b1170f991c2e" />
+<img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 22 32 PM" src="https://github.com/user-attachments/assets/51f63cdf-d89f-44cc-abe4-32428d952701" />
+<img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 22 38 PM" src="https://github.com/user-attachments/assets/ded3cf4e-c18f-45dd-a56c-166eb4420aae" />
+<img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 22 44 PM" src="https://github.com/user-attachments/assets/0e35c200-30cb-4aa1-84cf-c6e5ac1b7b37" />
 
 Installing Git in VS Code and Deploying a Static HTML Website on AWS EC2 Using Apache
 
