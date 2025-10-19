@@ -1,3 +1,6 @@
+<img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 11 06 PM" src="https://github.com/user-attachments/assets/636c59e5-be1c-4ef2-8e0e-14200554950b" />
+<img width="1440" height="900" alt="Screenshot 2025-10-19 at 2 11 11 PM" src="https://github.com/user-attachments/assets/8a6cb482-632d-4834-a306-b1170f991c2e" />
+
 Installing Git in VS Code and Deploying a Static HTML Website on AWS EC2 Using Apache
 
 Install Git on your local computer.
